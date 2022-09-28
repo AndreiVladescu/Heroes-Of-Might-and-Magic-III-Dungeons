@@ -20,3 +20,7 @@ and enjoy the game.
 
 Have fun!
 # Heroes-Of-Might-and-Magic-III-Dungeons
+
+![Photo](https://github.com/AndreiVladescu/Heroes-Of-Might-and-Magic-III-Dungeons/blob/main/preview1.png?raw=true)
+
+![Photo](https://github.com/AndreiVladescu/Heroes-Of-Might-and-Magic-III-Dungeons/blob/main/preview2.png?raw=true)
